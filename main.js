@@ -22,6 +22,16 @@ const estudios = [{
     lugar: "Coderhouse",
     periodo: "2022-2023",
     descripción: "Desarrollador Web Front End"
+    },
+    {
+        lugar: "Oracle + Alura Latam",
+        periodo: "2022-2023",
+        descripción: "Desarrollo Web Front End"
+    },
+    {
+        lugar: "Google Learn Active",
+        periodo: "2021-2022",
+        descripción: "HTML + CSS - Inicios en la programación"
     }
 ];
 
